@@ -105,11 +105,3 @@ O programa iniciará um loop infinito, aguardando os dados do microcontrolador, 
 ├── requirements.txt         # Lista de dependências Python
 └── serial_modbus_bridge.py  # O script principal da aplicação
 ```
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas\! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
-
-## 📄 Licença
-
-Este projeto não possui uma licença definida. Recomenda-se adicionar um arquivo `LICENSE` para esclarecer os termos de uso e distribuição do código.
